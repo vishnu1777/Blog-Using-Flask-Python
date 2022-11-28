@@ -1,0 +1,26 @@
+{
+
+"params": {
+  "local_server": "True",
+  "local_url": "mysql://root:@localhost/codebash",
+  "prod_url": "mysql://root:@localhost/codebash",
+  "fb_url": "facebook.com/vishnu",
+  "twitter_url": "twitter.com/vishnu",
+  "github_url": "github.com/vishnu",
+  "website_name": "codebash",
+  "Index_sub_title": "Coders Space",
+  "about_sub_title": "This we where we create things",
+  "about_title": "About Me",
+  "gmail-username": "vappu5429@gmail.com",
+  "gmail-password": "vunbiyseqtrmevjo",
+  "about_text": "Hey everyone My name is Vishnu and I'm a algo enthusiast || Stay connected to know learn about such algorithms",
+  "no_of_post": 3,
+  "admin_username": "vishnu",
+  "admin_password": "123456",
+  "uploading_folder": "C:\\Users\\Vishnu M\\PycharmProjects\\codebash\\static\\assets\\img"
+
+
+}
+
+
+}
